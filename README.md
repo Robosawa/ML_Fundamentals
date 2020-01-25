@@ -1,2 +1,2 @@
-# ML_Mathematics
-Machine learning mathematics everybody knows even elementary school students
+# ML Fundamentals
+Machine learning fundamentals everybody knows even elementary school students
